@@ -1,5 +1,7 @@
 const { MongoClient, ServerApiVersion } = require('mongodb');
 
+console.log("New Copy?");
+
 const uri =
 "mongodb+srv://DataMasterHudson:Engraving@cluster0.oemb39y.mongodb.net/?retryWrites=true&w=majority";
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
