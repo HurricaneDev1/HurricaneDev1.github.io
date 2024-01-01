@@ -1,6 +1,7 @@
 {
   "name": "hurricanedev1.github.io",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "dbHelper.js",
   "scripts": {
@@ -8,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "6.3"
+  }
 }
