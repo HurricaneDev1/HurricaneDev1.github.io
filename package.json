@@ -1,19 +1,15 @@
 {
-  "name": "atlas_starter_nodejs",
+  "name": "hurricanedev1.github.io",
   "version": "1.0.0",
-  "description": "MongoDB Node.js driver and Atlas Starter Application",
-  "main": "app.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mongodb-university/atlas_starter_nodejs.git"
+  "description": "",
+  "main": "dbHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "chris.cho@mongodb.com",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mongodb-university/atlas_starter_nodejs/issues"
-  },
-  "homepage": "https://github.com/mongodb-university/atlas_starter_nodejs#readme",
   "dependencies": {
-    "mongodb": "^3.5.9"
+    "mongodb": "6.3"
   }
 }
